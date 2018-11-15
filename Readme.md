@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BillionaireInfo.cs](./CS/CustomColorizerSample/BillionaireInfo.cs) (VB: [BillionaireInfo.vb](./VB/CustomColorizerSample/BillionaireInfo.vb))
+* **[CustomColorizer.cs](./CS/CustomColorizerSample/CustomColorizer.cs) (VB: [CustomColorizer.vb](./VB/CustomColorizerSample/CustomColorizer.vb))**
+* [Form1.cs](./CS/CustomColorizerSample/Form1.cs) (VB: [Form1.vb](./VB/CustomColorizerSample/Form1.vb))
+<!-- default file list end -->
 # How to: Implement a custom colorizer
 
 
